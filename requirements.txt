@@ -1,0 +1,11 @@
+streamlit
+geopandas
+matplotlib
+seaborn
+pandas
+requests
+folium 
+matplotlib 
+mapclassify
+streamlit-folium
+contextily
